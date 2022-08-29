@@ -405,7 +405,6 @@ nav>img:hover{
 
 .feature p {
     color: rgb(68 64 64);
-    /* font-family: 'Righteous', cursive; */
     font-weight: bold;
     max-width: 250px;
     margin-bottom: 10%;
@@ -428,15 +427,17 @@ nav>img:hover{
 }
 
 .box1 {
-    background-color: rgb(198, 254, 244);
+    background-color: rgb(255, 217, 217);
+     
 }
+
 
 .box2 {
     background-color: rgb(241, 242, 181);
 }
 
 .box3 {
-   background-color: rgb(255, 217, 217);
+    background-color: rgb(198, 254, 244);
 }
 
 .box4 {
